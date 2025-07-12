@@ -5,7 +5,7 @@
     font-style: normal;
   }
 
-  body{
+body{
     background-color: #f5f8ff;
     margin:  auto;
     font-family: Raleway;
@@ -22,7 +22,7 @@ button:hover{
 }
 
 
-/* primary class*/
+/* <----primary class---->*/
 .primary-button{
     background-color: #4E47FF;
     color: white;
@@ -36,7 +36,7 @@ button:hover{
 }
 
 
-/* nav section style*/
+/* <----nav section style----> */
 nav{
     display: flex;
     justify-content: space-between;
@@ -80,7 +80,7 @@ nav{
 }
 
 
-/*------action section-----*/
+/*<----action section---->*/
 .act{
     display: flex;
     justify-content: center;
@@ -110,7 +110,7 @@ nav{
 }
 
 
-/*----follower section----*/
+/*<----follower section---->*/
 .follower{
     display: flex;
     justify-content: center;
@@ -141,7 +141,7 @@ nav{
 }
 
 
-/*-----card section-----*/
+/*<----card section---->*/
 .card-class{
     display: flex;
     justify-content: center;
@@ -209,7 +209,7 @@ nav{
 }
 
 
-/*-----focus section----*/
+/*<----focus section---->*/
 .fc-main{
     display: flex;
     justify-content: center;
@@ -247,7 +247,7 @@ nav{
 }
 
 
-/*----form section---*/
+/*<----form section---->*/
 .frm-main{
     display: flex;
     justify-content: center;
@@ -290,8 +290,9 @@ textarea{
     resize: none;
 }
 
-/*<----foooter section---->*/
 
+
+/*<----foooter section---->*/
 .foot-main{
     display: flex;
     justify-content: center;
